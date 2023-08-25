@@ -1,2 +1,3 @@
 # repo-remoto
-exemplo de repositório remoto
+Descrição inserida antes do clone
+
