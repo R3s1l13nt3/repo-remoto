@@ -1,3 +1,3 @@
-# repo-remoto
-Descrição inserida antes do clone
+# repo-local
 
+Descrição inserida no repositório local depois do clone
