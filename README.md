@@ -1,3 +1,3 @@
 # repo-remoto
-Descrição inserida antes do clone
+Descrição inserida antes do clone.
 
